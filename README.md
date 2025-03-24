@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Hi!, Dicieous this side or as People Call me Happy. I'm currently a Game Developer who's Passionate about Game Engine and Graphics Programming. I know they are two whole separate profiles but Ehh... I like knowing the inner workings of a Game Engine and also Love seeing Beautiful render on my Screen Like that RayMarched MandelBlub Above!</h4>
+<h4 align="left">Hi!, Dicieous this side or as People Call me Happy. I'm currently a Game Developer who's Passionate about Game Engine and Graphics Programming. I know they are two whole separate profiles but Ehh... I like knowing the inner workings of a Game Engine and also Love seeing Beautiful render on my Screen Like the RayMarched MandelBulb Above!</h4>
 
 ###
 
